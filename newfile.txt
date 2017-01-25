@@ -1,1 +1,4 @@
 add a sencond file to alter for comparison using git diff and git difftool.
+--New line to establish difference between working and staged.
+
+--One more line to have difference between working, staged, and commit.
